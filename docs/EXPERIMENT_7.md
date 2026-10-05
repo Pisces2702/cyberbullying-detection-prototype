@@ -27,6 +27,10 @@ Dataset → preprocessing → TF-IDF → train/test split → Linear SVM → eva
 ## Model Selection
 Experiment 6 evaluated Logistic Regression, Decision Tree, Random Forest, SVM and KNN. SVM produced the highest 5-fold mean F1-score (0.6561, SD 0.0160), so it was selected for the final prototype.
 
+## Development History
+
+The repository was organized into meaningful development stages. The Git history records each stage as a separate commit.
+
 ## Version Plan
 | Version | Development change |
 |---|---|
