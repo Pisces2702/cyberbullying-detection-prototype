@@ -1,0 +1,5 @@
+bb39918 (HEAD -> master) Final prototype release and documentation
+29178e2 Add prototype interface and validation
+e5abd6a Implement baseline model evaluation
+19b3a2f Add preprocessing and TF-IDF pipeline
+177451f Initial project setup
