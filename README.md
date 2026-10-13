@@ -53,3 +53,7 @@ The prototype is text-only, is based on the available labelled dataset, and may 
 
 ## Future scope
 Multilingual and multimodal detection, contextual modelling, lightweight transformer models, better sarcasm detection, and deployment with human review.
+
+## Push to GitHub
+
+See [`GITHUB_PUSH.md`](GITHUB_PUSH.md) for instructions to connect this repository to a new GitHub remote while preserving its existing version history. Check dataset redistribution permissions before making the repository public.
